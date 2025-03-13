@@ -1,2 +1,6 @@
 collections:
   authors:
+   
+baseurl: /projekyll/
+url: "mlls2014.github.io"
+permalink: /:title  
